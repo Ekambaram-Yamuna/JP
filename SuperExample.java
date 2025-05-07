@@ -12,7 +12,7 @@ package Java;
 	 public void eat()
 	 {
 		  super.eat();
-		 System.out.println("I eat dog food");
+		 System.out.println("dog eat dog food");
 	 }
 	 public void bark()
 	 {
